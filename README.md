@@ -4,13 +4,15 @@
 <br />
 DOI:<br />
 PDF:<br />
+
+**Dataset:** https://huggingface.co/datasets/Mosab-Rezaei/19th-century-novelists-sentences  
+
 <br />
-**Cite:**<br />
-@inproceedings{rezaei2025stylometry,<br />
-title={Generation, Evaluation, and Explanation of Novelists’ Styles with Single-Token Prompts},<br />
-author={},<br />
-booktitle={},<br />
-volume={},<br />
-number={},<br />
-month={},<br />
-year={}}
+**Cite:** </br>
+@inproceedings{rezaei2025stylometry,</br>
+title={Generation, Evaluation, and Explanation of Novelists’ Styles with Single-Token Prompts},</br>
+author={Rezaei, Mosab and Rajaei Moghadam, Mina and Shaikh, Abdul Rahman and Alhoori, Hamed and Freedman, Reva},</br>
+booktitle={ACM/IEEE-CS Joint Conference on Digital Libraries (JCDL)},</br>
+pages={},</br>
+month={},</br>
+year={2025}}
