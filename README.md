@@ -10,8 +10,8 @@
 title={Generation, Evaluation, and Explanation of Novelists’ Styles with Single-Token Prompts},</br>
 author={Rezaei, Mosab and Rajaei Moghadam, Mina and Shaikh, Abdul Rahman and Alhoori, Hamed and Freedman, Reva},</br>
 booktitle={ACM/IEEE-CS Joint Conference on Digital Libraries (JCDL)},</br>
-doi={},</br>
-pages={},</br>
-month={},</br>
+doi={https://doi.org/10.1109/JCDL67857.2025.00026},</br>
+pages={148--157},</br>
+month={December},</br>
 year={2025}}
 
