@@ -1,9 +1,9 @@
 # **Text Generation, Evaluation, and Explanation**
 
 **Paper:** "Generation, Evaluation, and Explanation of Novelists’ Styles with Single-Token Prompts"</br>
+
 **Link:**  https://doi.org/10.1109/JCDL67857.2025.00026</br>
 **PDF:**  https://arxiv.org/pdf/2511.20459</br>
-
 **Dataset:** https://huggingface.co/datasets/Mosab-Rezaei/19th-century-novelists</br>
 
 **Cite:**  </br>
