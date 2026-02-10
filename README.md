@@ -1,7 +1,8 @@
 # **Text Generation, Evaluation, and Explanation**
 
 **Paper:** "Generation, Evaluation, and Explanation of Novelists’ Styles with Single-Token Prompts"</br>
-**Link:**  </br>
+**Link:**  https://doi.org/10.1109/JCDL67857.2025.00026</br>
+**PDF:**  https://arxiv.org/pdf/2511.20459</br>
 
 **Dataset:** https://huggingface.co/datasets/Mosab-Rezaei/19th-century-novelists</br>
 
@@ -10,7 +11,7 @@
 title={Generation, Evaluation, and Explanation of Novelists’ Styles with Single-Token Prompts},</br>
 author={Rezaei, Mosab and Rajaei Moghadam, Mina and Shaikh, Abdul Rahman and Alhoori, Hamed and Freedman, Reva},</br>
 booktitle={ACM/IEEE-CS Joint Conference on Digital Libraries (JCDL)},</br>
-doi={https://doi.org/10.1109/JCDL67857.2025.00026},</br>
+doi={10.1109/JCDL67857.2025.00026},</br>
 pages={148--157},</br>
 month={December},</br>
 year={2025}}
